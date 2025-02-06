@@ -1,0 +1,20 @@
+These are the official Zaytoven instruments (gathered from his cook ups/vlogs). To open these you need to:
+
+*Download Kontakt 5 then
+
+FOR PIANO: Download the "Native Instruments Classic Piano Collection" (Library For Kontakt) and install
+*NO LONGER SOLD BY NATIVE INSTRUMENTS, FIND IT ELSE WHERE *COUGH COUGH* ;) 
+Then open the provided preset in this folder.
+
+FOR ORGAN: Download the "Native Instruments Vintage Organs" (Library For Kontakt) and install
+Then open the provided preset in this folder. 
+it's important to use the provided preset file by me because the preset in the folder has 
+Zaytoven's and Cassius Jay's official organ tuning settings
+Link: http://www.native-instruments.com/en/products/komplete/keys/vintage-organs/
+
+
+FOR RHODES: Download "Gospel Musicians MKSensation" (Library For Kontakt) and install
+Then open the provided preset in this folder.
+Link: https://gospelmusicians.com/mksensation.html
+
+How To Install The Kontakt Libraries: https://www.youtube.com/watch?v=Ux8tbcQYZ9o
